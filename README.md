@@ -3,7 +3,7 @@ This is an open source WiFi PCB which is easy to use.
 
 
 # Why was it built?
-It was built for remote control of relays over wifi commands. It has several applications such as remote energy management for home power, for remote load monitoring, and other IoT applications.
+It was built for remote control of relays over wifi. It has several applications such as remote energy management for home power, for remote load monitoring, and other IoT applications.
 
 # Electrical Specs
 Input Voltage: 5V<br/>
